@@ -73,7 +73,7 @@ body::before {
     color: white;
     border-radius: 5px;
     font-weight: bold;
-    text-shadow: blue 1px 1px;
+    text-shadow: blue 2px 2px;
 }
 
 p{
